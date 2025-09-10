@@ -17,7 +17,7 @@ Environment: Jupyter Notebook, VS Code
 
 Clone this repo
 
-git clone https://github.com/your-username/my_projects.git
+git clone " "
 cd my_projects
 
 
@@ -26,9 +26,8 @@ Navigate to the project folder you want to explore.
 Follow the instructions in the project-level README file.
 
 📬 Contact
-
 👤 Amol Patil
 📧 amolpatil5849@gmail.com
-🔗 LinkedIn
 
-💻 GitHub
+
+
