@@ -13,10 +13,7 @@ The report helps track growth, compare categories, and make data-driven business
 - Power BI Desktop  
 - DAX (for measures & calculations)  
 
-## 🚀 How to Use  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/Directional-Sales-Analysis.git
+
 
 
 
