@@ -1,33 +1,22 @@
-# My-Projects
+# 📊 Directional Sales Analysis (Power BI)
 
-#Welcome to my My Projects repository! 🚀
-This repo contains a collection of my academic, personal, and practice projects related to Data Science, SQL, and Software Development. Each project includes its own dataset, scripts, and documentation for better understanding.
+## 📌 Overview  
+A **Power BI dashboard** that provides insights into sales performance across regions, products, and time periods.  
+The report helps track growth, compare categories, and make data-driven business decisions.  
 
-⚙️ Tools & Technologies
+## 🔑 Features  
+- Interactive filters & slicers  
+- KPIs: Total Sales, Profit, Growth %  
+- Visuals: Charts, Maps, Drill-downs  
 
-Languages: Python, SQL, HTML, CSS
+## 🛠 Tools  
+- Power BI Desktop  
+- DAX (for measures & calculations)  
 
-Libraries/Frameworks: Pandas, Matplotlib, Seaborn
-
-Database: MS SQL Server
-
-Environment: Jupyter Notebook, VS Code
-
-📌 How to Use
-
-Clone this repo
-
-git clone " "
-cd my_projects
-
-
-Navigate to the project folder you want to explore.
-
-Follow the instructions in the project-level README file.
-
-📬 Contact
-👤 Amol Patil
-📧 amolpatil5849@gmail.com
+## 🚀 How to Use  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/Directional-Sales-Analysis.git
 
 
 
